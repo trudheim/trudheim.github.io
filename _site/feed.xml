@@ -1,1 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-04T10:29:55+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Musings by Sirius</title><subtitle>Simple site, simple blog, simple man.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-04T15:05:54+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Musings by Sirius</title><subtitle>Simple site, simple blog, simple man.</subtitle><entry><title type="html">Time in our Time</title><link href="http://localhost:4000/time/timezones/2018/11/02/time-in-our-time.html" rel="alternate" type="text/html" title="Time in our Time" /><published>2018-11-02T11:11:11+00:00</published><updated>2018-11-02T11:11:11+00:00</updated><id>http://localhost:4000/time/timezones/2018/11/02/time-in-our-time</id><content type="html" xml:base="http://localhost:4000/time/timezones/2018/11/02/time-in-our-time.html">&lt;p&gt;Just in time, for the time of year where some people can not keep their hands
+off time itself.&lt;/p&gt;
+
+&lt;p&gt;The globe is a ball, and there is 360 degrees around a circle, and there is 24
+hours in a cycle. That means each “one hour” segment spans 15°. If you look at
+a &lt;a href=&quot;https://www.timeanddate.com/time/map/&quot;&gt;map of the timezones&lt;/a&gt;, you see what this looks like in
+practice. Except that this is not done properly and oftentimes whole countries
+are offset a whole timezone or more from where they should be geographically.&lt;/p&gt;
+
+&lt;p&gt;Add to this the malpractice of daylight savings time, of displacing the clock by
+one hour in spring and then rolling it back in autumn. &lt;a href=&quot;http://gothamist.com/2014/03/08/22_reasons_why_daylight_saving_time.php&quot;&gt;Others&lt;/a&gt; have
+gone through the trouble of gathering reasons why this is a bad idea, but
+suffice to say there are medical reasons for why the practice is bad.&lt;/p&gt;
+
+&lt;p&gt;The world is, whether you like it or not, moving towards more of a globally
+aware and active situation. Unless everyone does daylight savings at exactly the
+same time all the time, it actually is detrimental from a global perspective.&lt;/p&gt;
+
+&lt;p&gt;A common argument here is: “But if I do not interact with anyone non-local you
+are just making things hard for me”.&lt;/p&gt;
+
+&lt;p&gt;True. Up to the point where you have got used to it. And get used to it you
+will. Not every country drove on the right (and some still do not) but they made
+the transition. If you scout through history, you find a lot of practices that
+where abandoned and changed because there were good reasons to change. Things
+like slavery and cannibalism were abandoned. We standardised on common ways to
+measure weight, volume and length.&lt;/p&gt;
+
+&lt;p&gt;So the argument from a personal “I do not want to learn” perspective hold no
+sway with me.&lt;/p&gt;
+
+&lt;p&gt;Before &lt;a href=&quot;https://www.history.com/this-day-in-history/railroads-create-the-first-time-zones&quot;&gt;telegraphs and railroads&lt;/a&gt; got common enough
+and required a &lt;a href=&quot;https://en.wikipedia.org/wiki/Railway_time&quot;&gt;standardised way of keeping time&lt;/a&gt; people just
+stuck a stick in the mud and figured out what the exact stroke of noon was for
+their exact geographic location. That would be pretty similar to villages
+exactly to the north or south of there you were, but if you have to travel to
+a village 85 mile west or 109 miles east - your watch would be wrong.&lt;/p&gt;
+
+&lt;p&gt;We have come a long way since those days and we now actually have
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Coordinated_Universal_Time&quot;&gt;UTC&lt;/a&gt; and atomic clocks that are capable of
+keeping time ridiculously well. There is no longer a problem with finding out
+what the actual time is. So these days, &lt;strong&gt;time&lt;/strong&gt; really is relative, and with
+daylight savings time it is not even sane relative.&lt;/p&gt;
+
+&lt;p&gt;Another argument I heard - and keep this in mind for later - is: “you are trying
+to make people get up in the middle of the night, change the meaning of morning,
+noon and night!”&lt;/p&gt;
+
+&lt;p&gt;Nope. Morning, noon, night - they are all relative to the position of the sun in
+the sky. Not one iota to what your clock claims the local time is. Do not
+believe me? Try this:&lt;/p&gt;
+
+&lt;p&gt;Change your clock to be six hours earlier or later than what your local timezone
+is. When it goes dark outside - ask yourself this: “Is it night now?”&lt;/p&gt;
+
+&lt;p&gt;If the answer is yes, but your clock says it’s 6am and time to get up, what
+would you trust more, what your eyes are telling you (the sun is setting and it
+is becoming night) or what your clock tells you (it is morning, rise and shine)?&lt;/p&gt;
+
+&lt;p&gt;So what am I on about you ask.&lt;/p&gt;
+
+&lt;p&gt;What I am on about is that &lt;strong&gt;time&lt;/strong&gt; in the sense of what our watches tell us the
+time is, is something we can adapt and adapt to, and with relative ease. Why
+would we want to do something like it? Because in an increasingly global
+society it is beneficial to be able to talk about time and there is no ambiguity
+about what you are referencing. The military already have this, and they call it
+&lt;a href=&quot;https://www.navysite.de/what/zulu.htm&quot;&gt;Zulu Time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In fact, without you knowing, you’re already using it - you are just offset from
+the zero meridien and sometimes depending on daylight savings and bit more or
+less.&lt;/p&gt;
+
+&lt;p&gt;What if we stopped offsetting our clocks however? What if every clock in the
+world told you what the present time &lt;strong&gt;UTC&lt;/strong&gt; was?&lt;/p&gt;
+
+&lt;p&gt;“Oh my god, I would have to get up in the middle of the night, and think about
+the kids!!”&lt;/p&gt;
+
+&lt;p&gt;Actually, no, you would not. What changes is merely the numbers, and it is not
+that hard to get used to. For someone on the east coast USA, that would be UTC-4
+today, if you started work at 0900EST, that merely happens to be written 1300UTC
+and references the exact same time.&lt;/p&gt;
+
+&lt;p&gt;See UTC as &lt;em&gt;scheduling time&lt;/em&gt;. Whenever you schedule something, if you schedule
+that using UTC, there is &lt;strong&gt;never&lt;/strong&gt; any question about when it will happen. Even
+for someone that is halfway around the planet. 1300UTC is 1300UTC.&lt;/p&gt;
+
+&lt;p&gt;Sure, for someone in Los Angeles, it may initially be jarring to start work at
+1700UTC and finish for the day at 0200UTC because they are UTC-8, or seeing
+Seven Eleven open the doors at 1500UTC and close at 0700UTC. Nothing about that
+has actually practically changed anything for anyone, beside it being clear to
+everyone globally when you start work and when Seven Eleven opens and closes.&lt;/p&gt;
+
+&lt;p&gt;The attachment to “morning &lt;strong&gt;must&lt;/strong&gt; be when the clock says 0600” is nothing more 
+than an attachment to tradition. “noon &lt;strong&gt;must&lt;/strong&gt; be when the sun is highest in
+the sky” is still the case no matter what your clock claims the time is. For
+those that complain about maybe having to learn something new, all learning is
+daunting, but this is not actually that hard. Plus, it is laying the groundwork
+for your children and their children to have an easier time in an increasingly
+connected and global world.&lt;/p&gt;
+
+&lt;p&gt;What do you think will happen when we become star-faring and need effectively
+“&lt;a href=&quot;https://en.wikipedia.org/wiki/Stardate&quot;&gt;Star Date&lt;/a&gt;” in order to sync time with other planets and star
+systems?&lt;/p&gt;</content><author><name></name></author><summary type="html">Just in time, for the time of year where some people can not keep their hands off time itself.</summary></entry><entry><title type="html">Initial Thoughts</title><link href="http://localhost:4000/initial/thoughts/2018/11/01/initial-thoughts.html" rel="alternate" type="text/html" title="Initial Thoughts" /><published>2018-11-01T11:11:11+00:00</published><updated>2018-11-01T11:11:11+00:00</updated><id>http://localhost:4000/initial/thoughts/2018/11/01/initial-thoughts</id><content type="html" xml:base="http://localhost:4000/initial/thoughts/2018/11/01/initial-thoughts.html">&lt;p&gt;Some initial words while I get to grips with &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am european and that colours my view of the world. At the political spectrum,
+I guess you could say I fall in the humanist liberal socially democratic
+equality category. I am not in favour of authoritarianism, despotism, oligarchy,
+corruption, nepotism, organised religion, unfettered capitalism or nationalism.
+I also take a dim view of the egoism that is so hyped by the more right-leaning
+politicians. I can and most likely will launch in to a more detailed elaboration
+on that topic in a later post.&lt;/p&gt;
+
+&lt;p&gt;Prewarning - I know from history that I have a habit of writing and then taking
+breaks from writing. Sometimes I take yearlong breaks. I could promise I will
+try better this time, but why try. Either I do, or I do not. We will see.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://counter.social/&quot;&gt;Counter Social&lt;/a&gt; for a social media platform that
+actually values mutual respect, learning and discussion. Trolls not welcome and
+not tolerated.&lt;/p&gt;</content><author><name></name></author><summary type="html">Some initial words while I get to grips with Jekyll.</summary></entry></feed>
