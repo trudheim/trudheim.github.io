@@ -7,33 +7,29 @@ categories:	time timezones
 Just in time, for the time of year where some people can not keep their hands
 off time itself.
 
-The globe is a ball, and there is 360 degrees around a circle, and there is 24
-hours in a cycle. That means each "one hour" segment spans 15°. If you look at
-a [map of the timezones][time-zone-map], you see what this looks like in
-practice. Except that this is not done properly and oftentimes whole countries
-are offset a whole timezone or more from where they should be geographically.
+### Premise ###
+
+The world is a ball in space, the circumfrence is a circle and a circle is
+360 degrees. The time is takes to rotate around those 360 degrees is 24 hours.
+Each hour thus is the equivalent of a clementine segment of the world that is
+15 degrees wide.
+
+If you look at a [map of the timezones][time-zone-map], you see what this looks
+like in practice. Except that this is not done properly and oftentimes whole
+countries are offset a whole timezone or more from where they should be
+geographically.
 
 Add to this the malpractice of daylight savings time, of displacing the clock by
 one hour in spring and then rolling it back in autumn. [Others][22-reasons] have
 gone through the trouble of gathering reasons why this is a bad idea, but
-suffice to say there are medical reasons for why the practice is bad.
+suffice to say there are genuine medical reasons for why the practice is bad.
 
-The world is, whether you like it or not, moving towards more of a globally
-aware and active situation. Unless everyone does daylight savings at exactly the
-same time all the time, it actually is detrimental from a global perspective.
+The world is, whether some people like it or not, moving towards being more
+globally aware and active. Therefore, unless everyone does daylight savings at
+exactly the same time all the time, it actually is detrimental from a global
+perspective.
 
-A common argument here is: "But if I do not interact with anyone non-local you
-are just making things hard for me".
-
-True. Up to the point where you have got used to it. And get used to it you
-will. Not every country drove on the right (and some still do not) but they made
-the transition. If you scout through history, you find a lot of practices that
-where abandoned and changed because there were good reasons to change. Things
-like slavery and cannibalism were abandoned. We standardised on common ways to
-measure weight, volume and length.
-
-So the argument from a personal "I do not want to learn" perspective hold no
-sway with me.
+### Suggestion ###
 
 Before [telegraphs and railroads][history-railway-timezones] got common enough
 and required a [standardised way of keeping time][railway-time] people just
@@ -48,21 +44,6 @@ keeping time ridiculously well. There is no longer a problem with finding out
 what the actual time is. So these days, **time** really is relative, and with
 daylight savings time it is not even sane relative.
 
-Another argument I heard - and keep this in mind for later - is: "you are trying
-to make people get up in the middle of the night, change the meaning of morning,
-noon and night!"
-
-Nope. Morning, noon, night - they are all relative to the position of the sun in
-the sky. Not one iota to what your clock claims the local time is. Do not
-believe me? Try this:
-
-Change your clock to be six hours earlier or later than what your local timezone
-is. When it goes dark outside - ask yourself this: "Is it night now?"
-
-If the answer is yes, but your clock says it's 6am and time to get up, what
-would you trust more, what your eyes are telling you (the sun is setting and it
-is becoming night) or what your clock tells you (it is morning, rise and shine)?
-
 So what am I on about you ask.
 
 What I am on about is that **time** in the sense of what our watches tell us the
@@ -72,38 +53,110 @@ society it is beneficial to be able to talk about time and there is no ambiguity
 about what you are referencing. The military already have this, and they call it
 [Zulu Time][zulu-time].
 
-In fact, without you knowing, you're already using it - you are just offset from
-the zero meridien and sometimes depending on daylight savings and bit more or
-less.
-
 What if we stopped offsetting our clocks however? What if every clock in the
 world told you what the present time **UTC** was?
 
-"Oh my god, I would have to get up in the middle of the night, and think about
-the kids!!"
+### Arguments ###
 
-Actually, no, you would not. What changes is merely the numbers, and it is not
-that hard to get used to. For someone on the east coast USA, that would be UTC-4
-today, if you started work at 0900EST, that merely happens to be written 1300UTC
-and references the exact same time.
+#### "But if I do not interact with anyone non-local you are just making things hard for me." ####
+
+Only up to the point where you have got used to it and you likely have gotten
+used to far worse.
+
+Not every country drove on the right (and some still do not - that is true) but
+some made the transition (and there was much wailing and gnashing of teeth) and
+then people got used to it.
+
+If you scout through history, you find a lot of practices that where abandoned
+and changed because there were good reasons to change. Things like slavery and
+cannibalism were abandoned. We standardised on common ways to measure weight,
+volume and length, because there were inherent benefits to doing that.
+
+Even time in the way you are used to is a relatively recent change, so if one
+is arguing from a "but it's always been this way", we can clearly disprove that.
+
+#### "You are trying to make people get up in the middle of the night, change the meaning of morning, noon and night!" ####
+
+False.
+
+If you put equal-sign between "12:00" on your watch and "the sun stands at
+zenith", you have not properly understood what a clock or watch is and what it
+does. For example, clocks and time are **reference points** that allow you to
+measure how long something takes or agree on a common start and end point to
+something.
+
+Consider this.
+
+If you begin a task at 00:00 and complete it by 08:00, does that task take more
+or less time to complete than if you begin at 09:00 and finish at 17:00?
+
+Now consider that the task was carried out in parallel at exactly the same time
+by two different people, working side by side, where the only difference was
+what their clocks said and that one persons watch was nine hours ahead of the
+other persons watch.
+
+Morning, noon, evening and night are concepts related to the position of the
+sun in the sky and have no connection to or is in any way affected by what time
+your clock tells you it is. Your clock could say 03:45, 09:15, 13:27 or 19:59
+when the sun stands at zenith, and it still is noon.
+
+#### "Oh my god, I would have to get up in the middle of the night, and think about the kids!!" ####
+
+False.
+
+You'd still get up, go to work, eat lunch, finish work and go to bed at the same
+moments you always have done **relative to the position of the sun in the sky**
+based on how far you are away from the zero meridian. Coincidentally this is in
+no way connected to what the numbers on your watch tell you the time is.
+
+What would change would be what clocks would say is the reference point for each
+of those events except that instead of offsetting the watch from UTC (as is done
+today) the offset would be done for the start or end times given.
+
+Why do something so awkward? Because in a grander scheme of things, looking
+beyond the narrow horizon of ego, it helps on a global level.
+
+Irrespective of where someone would be located, 03:00 would be universally
+understood by everyone and there would never be a question about "which TZ is
+that in?" or "does DST mess with that this week or not?".
+
+If you still think that this little post argues that you should get up in the
+middle of the night, while it still is dark outside, go grab a coffee and come
+back in 15 minutes and read it again because you've not grasped the concept.
+
+### Examples ###
+
+For someone on the east coast USA, that would be UTC-4 today, if you started
+work at 0900EST, that merely happens to be written 1300UTC and references the
+exact same point in time. So someone who today would be on EST would simply roll
+their watch forward by four hours and start work at 1300 and go home at 2200
+(if they finished at 1800EST).
 
 See UTC as *scheduling time*. Whenever you schedule something, if you schedule
 that using UTC, there is **never** any question about when it will happen. Even
 for someone that is halfway around the planet. 1300UTC is 1300UTC.
 
-Sure, for someone in Los Angeles, it may initially be jarring to start work at
-1700UTC and finish for the day at 0200UTC because they are UTC-8, or seeing
-Seven Eleven open the doors at 1500UTC and close at 0700UTC. Nothing about that
-has actually practically changed anything for anyone, beside it being clear to
-everyone globally when you start work and when Seven Eleven opens and closes.
+For someone in Los Angeles, it may initially be jarring to start work at
+1700UTC and finish for the day at 0200UTC because PST is equivalent to UTC-8.
+Or seeing Seven Eleven open the doors at 1500UTC and close at 0700UTC. Nothing
+about this has **practically** changed anything for anyone, beside making it
+clear to everyone globally when they start work and when Seven Eleven where they
+are located open and close their doors.
 
-The attachment to "morning **must** be when the clock says 0600" is nothing more 
-than an attachment to tradition. "noon **must** be when the sun is highest in
-the sky" is still the case no matter what your clock claims the time is. For
-those that complain about maybe having to learn something new, all learning is
-daunting, but this is not actually that hard. Plus, it is laying the groundwork
-for your children and their children to have an easier time in an increasingly
-connected and global world.
+The attachment to "morning **must** be when the clock says 0600" is attachment
+to tradition. "noon **must** be when the sun is highest in the sky" is still
+true even if we adopted this proposal to go UTC globally.
+
+For those that complain about maybe having to learn something new, all learning
+is daunting, but this is not actually that hard. Plus, it is laying the
+groundwork for your children and their children to have an easier time in an
+increasingly connected and global world.
+
+Daylight Savings could be globally abandoned as well. Why change what the
+clocks say when if you want more light in the evening you simply get up earlier?
+That is exactly the effect of daylight savings except it also wreaks havoc on
+those that have to schedule meetings and phonecalls with people that are not in
+the same country (and that is far more common these days than some think).
 
 What do you think will happen when we become star-faring and need effectively
 "[Star Date][star-date]" in order to sync time with other planets and star
